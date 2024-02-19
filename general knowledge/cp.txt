@@ -1,0 +1,7 @@
+Competitive programming is a mind sport 
+usually practiced over the internet or in person, 
+where participants solve well-defined computational problems 
+within given constraints.
+
+
+Actually its not about code, its about logic and problem solving.
