@@ -14,14 +14,48 @@ int main() {
     // Redirect output to output.txt
     ofstream out("../output.txt");
     cout.rdbuf(out.rdbuf());
+    int weight;
+    cin >> weight;
 
-    
+    if (weight % 2 == 0 && weight > 2) {
+        cout << "YES" << endl;
+    } else {
+        cout << "NO" << endl;
+    }
 
-
-
-
-
-
-    
-    
+    return 0;
 }
+
+    
+
+
+
+    
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
